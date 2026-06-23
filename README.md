@@ -1,6 +1,6 @@
-## Hi there 👋
+## Hi I'm Sriram Vaka 👋
 
-<!--
+--
 # Hi, I'm Sriram Vaka 👋
 
 ### AI & Machine Learning Student | Aspiring Software Engineer
@@ -80,5 +80,4 @@ Working on ML-based applications involving data analysis, prediction models, and
 - Email: (Add your email)
 
 ---
-
-> "Turning data into insights and ideas into applications."
+ "Turning data into insights and ideas into applications."
