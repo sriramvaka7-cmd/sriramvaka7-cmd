@@ -82,4 +82,3 @@ Working on ML-based applications involving data analysis, prediction models, and
 ---
  "Turning data into insights and ideas into applications."
 
-hello
